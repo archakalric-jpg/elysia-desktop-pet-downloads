@@ -4,6 +4,8 @@
 
 **[GitHub 下载](https://github.com/archakalric-jpg/elysia-desktop-pet-downloads/releases/latest)** · **[夸克网盘下载](https://pan.quark.cn/s/a1fdf7635cb1)**
 
+**[问题与建议反馈](https://github.com/archakalric-jpg/elysia-desktop-pet-downloads/issues)**：登录 GitHub 后点击 **New issue**，填写标题和内容即可。
+
 打开 GitHub 发布页，在 Assets（附件）中点击 `ElysiaDesktopPet-1.5.9.24-Setup.exe` 下载，再双击安装。夸克中的文件名为 `爱丽希雅桌宠-1.5.9.24-安装.exe`。`Source code` 两项是 GitHub 自动附带的仓库文件，不是安装包。
 
 安装前请退出正在运行的旧桌宠；以后下载新版安装包，选择原二代安装位置即可更新并保留资料。从一代接续时，按首次提示手动选择旧资料文件夹。
